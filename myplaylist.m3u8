@@ -28,8 +28,6 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 
 
 
-#EXTINF:-1,港TVB HD2
-http://m.567it.com/jade.m3u8
 #EXTINF:-1,港TVB 財經HD
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1,港凤凰中文台HD2
@@ -46,74 +44,26 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&re
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1,港天映电影频道*
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-#EXTINF:-1,台HBO HD
-http://125.227.210.37:8895/VideoInput/play.ts
-#EXTINF:-1,台HBO SD
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1,台好莱坞电影 HD
-http://125.227.210.37:8909/VideoInput/play.ts
-#EXTINF:-1,台东森电影HD1
-http://125.227.210.37:8893/VideoInput/play.ts
-#EXTINF:-1,台东森洋片HD1
-http://125.227.210.37:8889/VideoInput/play.ts
-#EXTINF:-1,台StarMovies
-http://125.227.210.37:8898/VideoInput/play.ts
-#EXTINF:-1,台东森戏剧HD1
-http://125.227.210.37:8910/VideoInput/play.ts
-#EXTINF:-1,台中天综合HD2
-http://125.227.210.37:8888/VideoInput/play.ts
-#EXTINF:-1,台中天娱乐HD1
-http://125.227.210.37:8907/VideoInput/play.ts
-#EXTINF:-1,台中天新闻HD2
-http://125.227.210.37:8911/VideoInput/play.ts
-#EXTINF:-1,台TVBS新闻HD2
-http://125.227.210.37:8899/VideoInput/play.ts
-#EXTINF:-1,台东森新闻HD1
-http://125.227.210.37:8892/VideoInput/play.ts
 #EXTINF:-1,台民视新闻HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,台三立新闻HD2
-http://125.227.210.37:8912/VideoInput/play.ts
-#EXTINF:-1,台DiscoveryHD
-http://125.227.210.37:8896/VideoInput/play.ts
+
 #EXTINF:-1,台GoodTVHD2
 http://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1,台GoodTVHD
 http://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1,台GoodTV1
-http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1,台GoodTV2
-http://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1,澳亚卫视
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1,澳门卫视
-http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1,体Fox体育HD
-http://125.227.210.37:8904/VideoInput/play.ts
-#EXTINF:-1,体博斯魅力 HD
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,体纬来体育HD
-http://125.227.210.37:8897/VideoInput/play.ts
+
 #EXTINF:-1,体ESPN HD
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1,体ESPN 2HD
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 #EXTINF:-1,体RED BULL TV HD
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1,体SOCCER TV HD
 http://45.126.83.51/uq2663/h/h20/index2.m3u8
-#EXTINF:-1,体Fight time (ufc)HD
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1,体Fight Sport
-http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1,音MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,音M2O TV HD
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1,音Radio Monte Carlo
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:-1,音Music Top (ARG)HD
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 #EXTINF:-1,音Music chanel 18+
 http://92.249.129.152/stream/1music.m3u8
 #EXTINF:-1,音MTV音乐台 HD*
@@ -126,10 +76,6 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1,日本NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1,日本Shop Channel HD
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1,日本Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 #EXTINF:-1,韩TVN HD
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
 #EXTINF:-1,韩KBS2 HD
@@ -144,20 +90,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 #EXTINF:-1,韩EBS-kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,外KIX HD
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:-1,外HBO HOME*
-http://109.248.236.41:4433/udp/238.1.1.71:1234
 #EXTINF:-1,外HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,外FOX MOVIES COMEDY
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1,外RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1,外THRILL
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-#EXTINF:-1,外THRILL2
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1,外CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1,外MY CINEMA
@@ -172,10 +106,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:-1,外CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1,外CBC CANADA
-http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
-#EXTINF:-1,外AINMAL动物星球
-http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
 #EXTINF:-1,外CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 #EXTINF:-1,内a湖南卫视HD
