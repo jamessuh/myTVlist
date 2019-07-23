@@ -3,10 +3,6 @@
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1,RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1,环球电视台
-http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-#EXTINF:-1,环球电视台
-http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
 #EXTINF:-1,凤凰卫视香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,澳亚卫视
@@ -23,11 +19,6 @@ http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 http://183.251.61.197/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1,凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-
-
-
-
-
 #EXTINF:-1,港TVB 財經HD
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1,港凤凰中文台HD2
@@ -46,12 +37,96 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:-1,台民视新闻HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-
 #EXTINF:-1,台GoodTVHD2
 http://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1,台GoodTVHD
 http://live.streamingfast.net/osmflivech8.m3u8
 
+#EXTINF:-1,TVB资讯台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
+#EXTINF:-1,TVB无线财经台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
+#EXTINF:-1,TVB无线财经台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:-1,香港财经
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8
+#EXTINF:-1,环球电视
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1,环球电视
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1,香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1,翡翠台 FHD
+http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
+#EXTINF:-1,TVB明珠台
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1,Viu TV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,HBO
+http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8?icpid=88888888&from=2&ocs=2_161.0.157.50_80&hms_devid=24
+#EXTINF:-1,香港创世电视1080P
+https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
+#EXTINF:-1,香港佛陀教育协会
+http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1,香港開电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,香港開电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1,环球电视台
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1,环球电视台
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1,香港电视31台
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1,香港电视32台
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1,香港电视32台
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-p.m3u8
+#EXTINF:-1,香港电视32台
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+#EXTINF:-1,天映电影频道
+http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
+#EXTINF:-1,RHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
+#EXTINF:-1,亞洲新聞
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1,民视新闻1
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1,一新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1,壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:-1,天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,英国Sky NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,一新闻备
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1,第一财经
+https://w1live.livecdn.yicai.com/live/cbn.m3u8
+#EXTINF:-1,Channel News Asia
+https://drsh196ivjwe8.cloudfront.net/hls/cnai/02.m3u8
+
+
+
+#EXTINF:-1,CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1,华数电影Guide
+http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
+#EXTINF:-1,StarMovies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+#EXTINF:-1,漫威影宇宙
+http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+#EXTINF:-1,环球影剧频道Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1,HBO2 720p
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,HBO HD
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,体ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,体RED BULL TV HD
@@ -76,96 +151,88 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
 #EXTINF:-1,日本NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1,韩TVN HD
+#EXTINF:-1,TVN HD
 http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
-#EXTINF:-1,韩KBS2 HD
+#EXTINF:-1,KBS2 HD
 http://199.21.149.42:9083/live/lmgr218-live1/GJ/qP/GJqPMui6DQrYctmZxQDeig==/live.M3U8
-#EXTINF:-1,韩Chosun HD
+#EXTINF:-1,Chosun HD
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1,韩K PLUS HD
+#EXTINF:-1,K PLUS HD
 http://45.126.83.51/uq2663/h/h08/01.m3u8
-#EXTINF:-1,韩Arirang South Korea HD
+#EXTINF:-1,Arirang South Korea HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,韩ktv
+#EXTINF:-1,ktv
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:-1,韩EBS-kids
+#EXTINF:-1,EBS-kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,外HBO 2
+#EXTINF:-1,HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,外CINEMA WORD
+#EXTINF:-1,CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:-1,外MY CINEMA
+#EXTINF:-1,MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,外SKY NEWS HD
+#EXTINF:-1,SKY NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1,外CBN NEWS
+#EXTINF:-1,CBN NEWS
 http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
-#EXTINF:-1,外NBC
+#EXTINF:-1,NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1,外CBS
+#EXTINF:-1,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1,外CBN
+#EXTINF:-1,CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1,外CGTN DOCUMENTARY
+#EXTINF:-1,CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
-#EXTINF:-1,内a湖南卫视HD
+#EXTINF:-1,湖南卫视HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1,内a江蘇卫视HD
+#EXTINF:-1,江蘇卫视HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:-1,内a浙江卫视HD
+#EXTINF:-1,浙江卫视HD
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1,内北京卫视HD
+#EXTINF:-1,北京卫视HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1,内安徽卫视HD
+#EXTINF:-1,安徽卫视HD
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:-1,内黑龙江卫视HD
+#EXTINF:-1,黑龙江卫视HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:-1,内深圳卫视HD
+#EXTINF:-1,深圳卫视HD
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:-1,内广东卫视HD
+#EXTINF:-1,广东卫视HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:-1,内天津卫视HD
+#EXTINF:-1,天津卫视HD
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:-1,内湖北卫视HD
+#EXTINF:-1,湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1,内CCTV1
+#EXTINF:-1,CCTV1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
-#EXTINF:-1,内CCTV1
+#EXTINF:-1,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1,内CCTV2
+#EXTINF:-1,CCTV2
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1,内CCTV3
+#EXTINF:-1,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-#EXTINF:-1,内CCTV3
+#EXTINF:-1,CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1,内CCTV4
+#EXTINF:-1,CCTV4
 http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1,内CCTV5+
+#EXTINF:-1,CCTV5+
 http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
-#EXTINF:-1,内CCTV6
+#EXTINF:-1,CCTV6
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1,内CCTV7
+#EXTINF:-1,CCTV7
 http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1,内CCTV8
+#EXTINF:-1,CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1,内CCTV9
+#EXTINF:-1,CCTV9
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1,内CCTV10
+#EXTINF:-1,CCTV10
 http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1,内CCTV11
+#EXTINF:-1,CCTV11
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1,内CCTV13
+#EXTINF:-1,CCTV13
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1,内CCTV14
+#EXTINF:-1,CCTV14
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-
-
-
-
-
-
-
-
 #EXTINF:-1,CCTV1
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
 #EXTINF:-1,CCTV3
@@ -192,7 +259,7 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
 http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
 #EXTINF:-1,CCTV-11 HD
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
-#EXTINF:-1,CCTV5(移动线路)
+#EXTINF:-1,CCTV5
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
 #EXTINF:-1,CCTV1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
@@ -254,85 +321,6 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:-1,CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:-1,TVB资讯台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,TVB无线财经台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
-#EXTINF:-1,TVB无线财经台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,香港财经
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w919410739.m3u8
-#EXTINF:-1,环球电视
-http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1,环球电视
-http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-#EXTINF:-1,香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1,翡翠台 FHD
-http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
-#EXTINF:-1,TVB明珠台
-http://m.567it.com/Pearl.m3u8
-#EXTINF:-1,Viu TV (需要香港节点播放)
-http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1,HBO（需要代理）
-http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8?icpid=88888888&from=2&ocs=2_161.0.157.50_80&hms_devid=24
-#EXTINF:-1,香港创世电视1080P
-https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1,香港佛陀教育协会
-http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1,香港開电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1,香港開电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1,环球电视台
-http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
-#EXTINF:-1,环球电视台
-http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-#EXTINF:-1,香港电视31台
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1,香港电视32台
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1,香港电视32台
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-p.m3u8
-#EXTINF:-1,香港电视32台
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-#EXTINF:-1,天映电影频道
-http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-#EXTINF:-1,RHK32
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
-#EXTINF:-1,亞洲新聞
-http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,民视新闻1
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,一新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
-#EXTINF:-1,壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-#EXTINF:-1,天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1,英国Sky NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,一新闻备
-http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-#EXTINF:-1,第一财经
-https://w1live.livecdn.yicai.com/live/cbn.m3u8
-#EXTINF:-1,Channel News Asia
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/02.m3u8
-#EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1,华数电影Guide
-http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
-#EXTINF:-1,StarMovies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-#EXTINF:-1,漫威影宇宙
-http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-#EXTINF:-1,环球影剧频道Universal Channel
-http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1,HBO2 720p
-http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1,HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+
+
+
