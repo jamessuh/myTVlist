@@ -3,27 +3,34 @@
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台（备）
 http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台（备）
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台（备）
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
 #EXTINF:-1,group-title="港澳台卫视",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1,group-title="港澳台卫视",RHK31
+#EXTINF:-1,group-title="港澳台卫视",RHK31（备）
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台
+http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视中文台
+http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 #EXTINF:-1,group-title="港澳台卫视",凤凰卫视香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视香港台（备）
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台（备）
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台（备）
 http://183.251.61.197/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台
+#EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台（备）
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1,group-title="港澳台卫视",凤凰中文台HD2
+#EXTINF:-1,group-title="港澳台卫视",凤凰中文台HD2（备）
 http://117.169.120.217:8080/live/fhchinese/.m3u8
-#EXTINF:-1,group-title="港澳台卫视",凤凰资讯台
+#EXTINF:-1,group-title="港澳台卫视",凤凰资讯台（备）
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
 #EXTINF:-1,group-title="港澳台卫视",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
@@ -50,18 +57,18 @@ http://210.61.56.23/hls/ftvtv/index.m3u8
 http://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1,group-title="港澳台卫视",GoodTVHD
 http://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:-1,group-title="港澳台卫视",香港电视31台
+#EXTINF:-1,group-title="港澳台卫视",香港电视31台（备）
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1,group-title="港澳台卫视",香港电视32台
+#EXTINF:-1,group-title="港澳台卫视",香港电视32台（备）
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-#EXTINF:-1,group-title="港澳台卫视",香港电视32台
+#EXTINF:-1,group-title="港澳台卫视",香港电视32台（备）
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-p.m3u8
-#EXTINF:-1,group-title="港澳台卫视",香港电视32台
+#EXTINF:-1,group-title="港澳台卫视",香港电视32台（备）
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 
 
 
-#EXTINF:-1,group-title="国际新闻",Sky NEWS
+#EXTINF:-1,group-title="国际新闻",Sky NEWS（备）
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1,group-title="国际新闻",Sky NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
@@ -186,33 +193,33 @@ http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
 #EXTINF:-1,group-title="大陆频道",CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
-#EXTINF:-1,group-title="大陆频道",CCTV1
+#EXTINF:-1,group-title="大陆频道",CCTV1（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV3
+#EXTINF:-1,group-title="大陆频道",CCTV3（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-3-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV4
+#EXTINF:-1,group-title="大陆频道",CCTV4（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV5
+#EXTINF:-1,group-title="大陆频道",CCTV5（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV8
+#EXTINF:-1,group-title="大陆频道",CCTV8（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV10
+#EXTINF:-1,group-title="大陆频道",CCTV10（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV发现之旅
+#EXTINF:-1,group-title="大陆频道",CCTV发现之旅（备）
 http://hls-ott-zhibo.wasu.tv/live/131/index.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV2HD
+#EXTINF:-1,group-title="大陆频道",CCTV2HD（备）
 http://hls-ott-zhibo.wasu.tv/live/196/index.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV13
+#EXTINF:-1,group-title="大陆频道",CCTV13（备）
 http://hls-ott-zhibo.wasu.tv/live/189/index.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV13
+#EXTINF:-1,group-title="大陆频道",CCTV13（备）
 http://hls-ott-zhibo.wasu.tv/live/197/index.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV5体育+
+#EXTINF:-1,group-title="大陆频道",CCTV5体育+（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-5PLUS-CQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV-7 HD
+#EXTINF:-1,group-title="大陆频道",CCTV-7 HD（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-7-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV-11 HD
+#EXTINF:-1,group-title="大陆频道",CCTV-11 HD（备）
 http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
-#EXTINF:-1,group-title="大陆频道",CCTV5
+#EXTINF:-1,group-title="大陆频道",CCTV5（备）
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
 #EXTINF:-1,group-title="大陆频道",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
