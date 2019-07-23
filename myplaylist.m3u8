@@ -1,22 +1,16 @@
 #EXTM3U
 #EXTINF:-1,group-title="港澳台卫视",Viu TV
 http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",无线新闻台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB资讯台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经台
+#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB 財經HD
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1,group-title="港澳台卫视",翡翠台 FHD
-http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8
 #EXTINF:-1,group-title="港澳台卫视",RHK32
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1,group-title="港澳台卫视",RHK31
@@ -54,10 +48,6 @@ http://m.567it.com/Pearl.m3u8
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1,group-title="港澳台卫视",亞洲新聞
 http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,group-title="港澳台卫视",民视新闻1
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",一新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
 #EXTINF:-1,group-title="港澳台卫视",壹新闻
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1,group-title="港澳台卫视",民视新闻HD
@@ -101,8 +91,6 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1,group-title="娱乐台",天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-#EXTINF:-1,group-title="娱乐台",HBO
-http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8?icpid=88888888&from=2&ocs=2_161.0.157.50_80&hms_devid=24
 #EXTINF:-1,group-title="娱乐台",华数电影Guide
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
 #EXTINF:-1,group-title="娱乐台",StarMovies HD
@@ -111,8 +99,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
 #EXTINF:-1,group-title="娱乐台",HBO2 720p
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
-#EXTINF:-1,group-title="娱乐台",HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 #EXTINF:-1,group-title="娱乐台",ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,group-title="娱乐台",RED BULL TV HD
