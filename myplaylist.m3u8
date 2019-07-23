@@ -9,16 +9,10 @@ http://tvbilive7-i.akamaihd.net/hls/live/494651/CJHK4/index.m3u8
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1698599909_b1096000.m3u8
-#EXTINF:-1,group-title="港澳台卫视",TVB无线财经资讯台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
-#EXTINF:-1,group-title="港澳台卫视",RHK32
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1,group-title="港澳台卫视",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1,group-title="港澳台卫视",RHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,group-title="港澳台卫视",RHK32
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1,group-title="港澳台卫视",凤凰卫视香港台
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1,group-title="港澳台卫视",凤凰卫视资讯台
@@ -52,8 +46,6 @@ http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1,group-title="港澳台卫视",民视新闻HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1,group-title="港澳台卫视",壹电视新闻台
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1,group-title="港澳台卫视",GoodTVHD2
 http://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1,group-title="港澳台卫视",GoodTVHD
@@ -113,8 +105,6 @@ http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:-1,group-title="娱乐台",Music chanel 18+
 http://92.249.129.152/stream/1music.m3u8
-#EXTINF:-1,group-title="娱乐台",MTV音乐台 HD*
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,group-title="娱乐台",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,group-title="娱乐台",CINEMA WORD
@@ -212,4 +202,6 @@ http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225904/3.m3u8
 #EXTINF:-1,group-title="大陆频道",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+
+
 
