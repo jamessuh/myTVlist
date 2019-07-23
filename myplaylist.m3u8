@@ -146,19 +146,21 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 #EXTINF:-1,group-title="大陆频道",北京卫视
-http://cctvalih5c.v.myalicdn.com/wstv/btv1_2/index.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225937/index.m3u8
 #EXTINF:-1,group-title="大陆频道",东方卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/wstv/dongfang_2/index.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225828/index.m3u8
 #EXTINF:-1,group-title="大陆频道",广东卫视
 http://cctvalih5c.v.myalicdn.com/wstv/guangdong_2/index.m3u8
 #EXTINF:-1,group-title="大陆频道",湖南卫视
-http://ivi.bupt.edu.cn/hls/hunantv.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225847/index.m3u8
 #EXTINF:-1,group-title="大陆频道",江苏卫视
-http://live2.plus.hebtv.com/jsws/sd/live.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225847/index.m3u8
 #EXTINF:-1,group-title="大陆频道",浙江卫视
 http://111.40.205.79/PLTV/88888888/224/3221225612/index.m3u8
 #EXTINF:-1,group-title="大陆频道",深圳卫视
-http://cctvalih5c.v.myalicdn.com/wstv/shenzhen_2/index.m3u8
+http://112.50.243.7/PLTV/88888888/224/3221225848/index.m3u8
+#EXTINF:-1,group-title="大陆频道",北京卫视纪实
+http://112.50.243.7/PLTV/88888888/224/3221225946/index.m3u8
 #EXTINF:-1,group-title="大陆频道",CCTV1
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
 #EXTINF:-1,group-title="大陆频道",CCTV2
